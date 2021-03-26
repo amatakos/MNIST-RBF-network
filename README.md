@@ -5,4 +5,4 @@ Implemented a Radial Basis Function network for classification of the digits of 
 
 Since the course was taught in greek, the report for the project is written in greek as well.
 
-Instructions: run from test.py
+Instructions: run from run.py
